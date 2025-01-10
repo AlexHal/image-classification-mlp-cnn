@@ -1,6 +1,5 @@
 # Classification of Image Data
 
-## Project Overview
 This project explores image classification using **Multilayer Perceptrons (MLPs)** and **Convolutional Neural Networks (CNNs)**. The goal is to analyze how hyperparameters, regularization, and optimization affect model performance on image datasets.
 
 ## Key Highlights
